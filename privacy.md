@@ -1,3 +1,5 @@
+#Privacy Policy
+
 This Privacy Policy governs the manner in which Oblique Guitar Practice collects, uses, maintains, and discloses information collected from users (each, a "User") of the Oblique Guitar Practice mobile application ("App").
 
 ##No Data Collection
